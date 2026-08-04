@@ -24,7 +24,6 @@ ITSA student building a foundation in networking, systems administration, and se
 
 - **Roles:** Help Desk / IT Support, SOC Analyst (entry-level), IT Security Support
 - **Environment:** Team-oriented, opportunities to learn from senior security staff
-- **Availability:** *(add your availability — e.g., "Open to internships and full-time roles starting [month/year]")*
 
 ---
 
