@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://github.com/Trentgrothe.png" width="130" style="border-radius:50%;border:3px solid #0969da"/>
 
@@ -54,8 +54,20 @@ I'm looking for an **entry-level Help Desk, IT Support, or SOC Analyst** role on
 ## Certifications & Badges
 
 <div align="center">
-<img src="assets/mycc-pathways-commitment-badge.png" width="140" alt="MyComputerCareer Pathways Commitment Badge"/>
-<img src="assets/mycc-keyboarding-badge.png" width="140" alt="MyComputerCareer Keyboarding Badge - 50 WPM or higher"/>
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="assets/mycc-pathways-commitment-badge.png" width="130" alt="MyComputerCareer Pathways Commitment Badge"/><br/>
+<sub><b>Pathways — Commitment</b></sub>
+</td>
+<td align="center" width="200">
+<img src="assets/mycc-keyboarding-badge.png" width="130" alt="MyComputerCareer Keyboarding Badge - 50 WPM or higher"/><br/>
+<sub><b>Keyboarding — 50+ WPM</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 &nbsp;
