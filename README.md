@@ -1,21 +1,3 @@
-
-You are out of free messages until 5:20 PM
-You are out of free messages (opens in new tab) until 5:20 PM Upgrade
-
-README.md
-README.md
-111 lines
-MD
-
-How can I help you today?
-
-
-README.md
-3.34 KB •111 lines
-Formatting may be inconsistent from source
-
-<div align="center">
-
 # Trent Grothe
 
 ### Aspiring Cybersecurity Analyst
